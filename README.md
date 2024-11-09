@@ -1,0 +1,6 @@
+The pollution of water sources specifically lakes by plastics is a huge problem in the current world that present immense threats to the lives of aquatic creatures as well as the quality of water. 
+Thus, it is necessary to develop an effective strategy for detecting and collecting PET bottles that may gather on the surface of the lakes. 
+The present paper suggests the use of the YOLO algorithms (You Only Look Once) for the identification of PET bottles floating on the lake. 
+With the help of using modern techniques of computer vision, some problems like the difference in orientations of the bottles, colors of the bottles, or difficult backgrounds could be solved. 
+Its stages include the edge detection, threshold-based filtering, as well as the application of post-enhancement to improve the detection outcome. Undoubtedly, this paper makes a great contribution to the investigation of real-time environmental monitoring and offers an efficient solution to detect and map PET bottles. Based on these findings, the integration of this technology with ASVs presents the possibility of automatic removal of plastic pollution in water bodies. 
+The results highlighted the suitability of using an enhanced computer vision algorithm with the YOLOv9c model on identifying PET bottles with improved results of having map@50=89% and an F-score of 88.
